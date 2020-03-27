@@ -13,11 +13,11 @@ export default function Detail() {
     const route = useRoute();
 
     const incident = route.params.incident;
-    const message = `Olá, ${incident.name}! Estou entrando em contato a respeito do caso ${incident.title} publicado na Be The Hero com ajuda no valor de ${ 
+    const message = `Olá, pessoal da ${incident.name}! \n\nEntro em contato a respeito do caso ${incident.title} publicado na Be The Hero com ajuda no valor de ${ 
         Intl.NumberFormat('pt-BR', {
         style: 'currency',
         currency: 'BRL'
-    }).format(incident.value)}`;
+    }).format(incident.value)}.\n\nAcredito que posso ajudá-los com essa :)`;
 
     function navigateBack() {
         navigation.goBack()
