@@ -20,6 +20,11 @@ routes.post('/ongs', celebrate({
         whatsapp: Joi.string().required().min(10).max(11),
     })
 }), OngController.create);
+routes.delete('/ongs/:id', celebrate({
+    [Segments.PARAMS]: Joi.object().keys({
+        id: Joi.string().required(),
+    })
+}), OngController.delete);''
 
 routes.get ('/profile', celebrate({
     [Segments.HEADERS]: Joi.object({
