@@ -25,7 +25,7 @@ A Hangman Game in which the user has to get the right Beatles music.
 	<tr><!-- Prevent zebra stripes --></tr>
 	<tr>
 		<td align="center">
-			<img height="400px" src="https://github.com/sthefanoc/omnistack11-be-the-hero/blob/master/outros/be-the-hero-mobile.gif">
+			<img height="300px" src="https://github.com/sthefanoc/omnistack11-be-the-hero/blob/master/outros/be-the-hero-mobile.gif">
 		</td>
 	</tr>
 </table>
