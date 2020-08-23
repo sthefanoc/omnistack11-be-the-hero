@@ -9,7 +9,7 @@
 <h1 align="center">Be the Hero - Semana OmniStack App</h1>
 
 <p align="center">
-  <img alt="Be the Hero Project Reaact - Semana Omnistack" src="https://github.com/sthefanoc/omnistack11-be-the-hero/blob/master/outros/Be-The-Hero-SemanaOmnistack11-Header.gif">
+  <img width="100%" alt="Be the Hero Project Reaact - Semana Omnistack" src="https://github.com/sthefanoc/omnistack11-be-the-hero/blob/master/outros/Be-The-Hero%20-%20SemanaOmnistack11%20-%20Header.gif">
 </p>
 
 A Hangman Game in which the user has to get the right Beatles music.
