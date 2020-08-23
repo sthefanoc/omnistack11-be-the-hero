@@ -16,22 +16,22 @@ A Hangman Game in which the user has to get the right Beatles music.
 
 ## Screenshots
 
-<table>
+<table width="100%">
 	<tr>
 		<th width="70%">
 			Web App - React.Js
 		</th>
 		<th width="30%">
-      Mobile App - React Native
+      			Mobile App - React Native
 		</th>
 	</tr>
 	<tr><!-- Prevent zebra stripes --></tr>
 	<tr>
 		<td align="center">
-			<img height="450" src="https://github.com/sthefanoc/omnistack11-be-the-hero/blob/master/outros/be-the-hero-mobile.gif">
+			<img height="300px" src="https://github.com/sthefanoc/omnistack11-be-the-hero/blob/master/outros/be-the-hero-mobile.gif">
 		</td>
 		<td align="center">
-			<img height="450" src="https://github.com/sthefanoc/omnistack11-be-the-hero/blob/master/outros/be-the-hero-frontend.gif">
+			<img height="300px"src="https://github.com/sthefanoc/omnistack11-be-the-hero/blob/master/outros/be-the-hero-frontend.gif">
 		</td>
 	</tr>
 </table>
